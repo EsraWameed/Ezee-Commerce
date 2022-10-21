@@ -9,9 +9,7 @@ router.get('/', async (req, res) => {
   try {
     const categoryData = await Category.findAll({
       include: [{
-        model: Product,
-        // required: true
-      }]
+        model: Product,}]
     });
     if(!categoryData) {
       res.status(404).json({message: "Categories not found!"});
