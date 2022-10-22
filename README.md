@@ -1,7 +1,7 @@
 # Ezee Commerce
  ## Demo
-  - You can click on either the image or this link to access the video https://www.youtube.com/watch?v=SKNfqD-BV8E&ab_channel=EsraAl-Abduljabar
- [![IMAGE ALT TEXT](assets/images/2.png)](https://www.youtube.com/watch?v=dyrAdTTZL48&ab_channel=EsraAl-Abduljabar "readme")
+  - You can click on either the image or this link to access the video https://www.youtube.com/watch?v=9ZIUlCNxBqo&ab_channel=EsraAl-Abduljabar
+ [![IMAGE ALT TEXT](assets/images/1.png)](https://www.youtube.com/watch?v=9ZIUlCNxBqo&ab_channel=EsraAl-Abduljabar "readme")
 
 ## Description
 This E-commerce backend node.js application utilizes express.js server and an SQL database. This RESTful APIs executes CRUD operations. This application uses sequelize to convert data to and from the database. Insomnia was used to demonstrate functionality when executing requests.
@@ -16,7 +16,7 @@ This E-commerce backend node.js application utilizes express.js server and an SQ
 - Sequelize: ORM tool to convert data to and from the database.
 
 ## CLI Application Image
-![CLI application](assets/images/1.png "Final Look")
+![CLI application](assets/images/2.png "Final Look")
 ## Installation
 ### Clone code to your local machine and execute the following commands.
 - npm install
